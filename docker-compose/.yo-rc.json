@@ -1,0 +1,10 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["chatting", "gateway", "mainPage", "registration"],
+    "directoryPath": "../",
+    "gatewayType": "SpringCloudGateway",
+    "monitoring": "no",
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "ZWRiYTJkMjgzZjVhMmE1NGYxMmU5NDJkYWFjYjYxZDQ5OTFkMGI4OTAzY2U5ODI0ZjVmZTkzMzA4NTI3MjRmZTBjZWNlNDlkODk4NTcxNWZmNzU0MzU4NDhjNTA3MThjYmM0Yg=="
+  }
+}
